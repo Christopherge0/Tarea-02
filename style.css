@@ -1,0 +1,81 @@
+.hola 
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 11px;
+    text-align: center;
+}
+body
+{
+    background-color: #d7d7d7;
+    #004d1a
+}
+.fuente
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 1.5rem;
+}
+#enca_1
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 5rem;
+}
+#image 
+{ 
+    float: left;
+    margin-right: 40px;
+    width: 20%;
+}
+
+#subti
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 2rem;
+}
+h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 1.89rem;
+}
+#parra
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 1.5rem;
+}
+.divexpre
+{
+    border-color: #004d1a ;
+    border-style: solid;
+    width: 69%;
+    float: right ;
+}
+.divexpre, .divObje
+{
+    display: inline-flexbox;
+}
+.divObje
+{
+    border-color: #004d1a ;
+    border-style: solid;
+    width: 29%;
+    float: left;
+}
+table 
+{
+  margin: 10px;
+}
+button
+{
+    border-bottom: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #33cc33;
+    font-size: 1.5rem;
+
+}
+
+
